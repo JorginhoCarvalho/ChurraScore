@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChurrasScore</string>
+    <string name="com_camisa">Com Camisa</string>
+    <string name="sem_camisa">Sem Camisa</string>
+    <string name="teste">teste</string>
+    <string name="vs">x</string>
+    <string name="time">Time 1</string>
+    <string name="vitorias1">vitorias: 0</string>
+    <string name="vitorias2">vitorias: 0</string>
+    <string name="truco">Truco</string>
+    <string name="futebol">Futebol</string>
+    <string name="pebolim">Pebolim</string>
+    <string name="time_1">Time 1</string>
+    <string name="time_2">Time 2</string>
+</resources>
